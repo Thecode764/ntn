@@ -19,5 +19,6 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git commit "📝 Rename yes to no"
+          git add README.md
+          git commit -m "📝 Rename yes to no"
           git push
