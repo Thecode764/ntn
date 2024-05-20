@@ -13,7 +13,7 @@ jobs:
       
       - name: Replace line 20 in README.md
         run: |
-          sed -i '20s/.*/<img src="https://img.shields.io/badge/Tested-no-black?logo=linux">/' README.md
+          echo '<img src="https://img.shields.io/badge/Tested-no-black?logo=linux">' >> README.md
           
       - name: Commit and Push changes
         run: |
