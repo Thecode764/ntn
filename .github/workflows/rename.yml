@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Replace line 20 in README.md
+        run: |
+          sed -i '20s/.*/<img src="https://img.shields.io/badge/Tested-no-black?logo=linux">/' README.md
+          
+      - name: Commit and Push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit "📝 Rename yes to no"
+          git push
