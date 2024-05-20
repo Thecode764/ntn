@@ -7,6 +7,7 @@ jobs:
     steps:
       - run: git clone https://github.com/Thecode764/ntn
       - run: cd ntn
-      - run: chmod +x ntn.sh
+      - run: ls
+      - run: chmod +x ./ntn.sh
       - run: cp ntn.sh /usr/bin/ntn
       - run: ntn --ri test.requirements.nr
