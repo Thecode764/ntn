@@ -19,6 +19,7 @@
 <h2 align="center">Features</h2>
 
 - Package installer
+- Easy commands
 
 <h2 align="center">How to install it?</h2>
 <p align="center">
@@ -44,6 +45,54 @@ ntn --help
 
 ```
 ntn --i package-name
+```    
+
+</p>
+OR
+<p align="center">
+
+```
+ntn --in package-name
+```    
+
+</p>
+OR
+<p align="center">
+
+```
+ntn --ins package-name
+```    
+
+</p>
+OR
+<p align="center">
+
+```
+ntn --inst package-name
+```    
+
+</p>
+OR
+<p align="center">
+
+```
+ntn --insta package-name
+```    
+
+</p>
+OR
+<p align="center">
+
+```
+ntn --instal package-name
+```    
+
+</p>
+OR
+<p align="center">
+
+```
+ntn --install package-name
 ```    
 
 </p>
