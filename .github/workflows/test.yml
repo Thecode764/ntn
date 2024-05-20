@@ -14,3 +14,8 @@ jobs:
       - name: Add alert
         run: |
           echo "<h2 align="center">Version 2 is out</h2><p align="center">The two version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-2">Here</a></p>" >> README.md
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "🚀Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S') Asia/Tehran"
+          git push
