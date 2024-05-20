@@ -16,7 +16,7 @@
             alt="Gitmoji"
         />
     </a>
-    <img src="https://image.shields.io/badge/Version-1-black?logo=linux">
+    <img src="https://img.shields.io/badge/Version-1-black?logo=linux">
 </p>
 <h2 align="center">Features</h2>
 
