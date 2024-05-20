@@ -16,3 +16,34 @@
         />
     </a>
 </p>
+<h2 align="center">Features</h2>
+
+- Package installer
+
+<h2 align="center">How to install it?</h2>
+<p align="center">
+
+```
+git clone https://github.com/Thecode764/ntn
+cd ntn
+sudo cp ./ntn.sh /usr/bin/ntn
+```    
+
+</p>
+<h2 align="center">Commands</h2>
+<h3 align="center">Help</h3>
+<p align="center">
+
+```
+ntn --help
+```    
+
+</p>
+<h3 align="center">Install</h3>
+<p align="center">
+
+```
+ntn --i package-name
+```    
+
+</p>
