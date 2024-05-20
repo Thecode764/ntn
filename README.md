@@ -111,3 +111,5 @@ vue react google-translate
 ```
 ntn --ri file_name
 ```
+<h2 align="center">Version 1 is out</h2>
+<p align="center">The first version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-1">Here</a></p>
