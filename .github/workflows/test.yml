@@ -1,0 +1,16 @@
+name: Run After Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  run_after_release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Add alert
+        run: |
+          echo "<h2 align="center">Version 2 is out</h2><p align="center">The two version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-2">Here</a></p>" >> README.md
