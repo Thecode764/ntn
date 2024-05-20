@@ -31,6 +31,7 @@
 ```
 git clone https://github.com/Thecode764/ntn
 cd ntn
+chmod +x ntn.sh
 sudo cp ./ntn.sh /usr/bin/ntn
 ```    
 
