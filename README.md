@@ -20,6 +20,7 @@
 
 - Package installer
 - Easy commands
+- NR file (NTN Requirements)
 
 <h2 align="center">How to install it?</h2>
 <p align="center">
@@ -96,3 +97,17 @@ ntn --install package-name
 ```    
 
 </p>
+<h3 align="center">ri</h3>
+<p align="center">By using the ri command you can install packages with nr file<br>NR = Ntn Requirements</p>
+<h4 align="center">NR file syntax</h4>
+
+```
+vue react google-translate
+```
+
+<p align="center">For add new package you can use space</p>
+<h4 align="center">Command syntax</h4>
+
+```
+ntn --ri file_name
+```
