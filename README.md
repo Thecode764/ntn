@@ -118,3 +118,4 @@ ntn --ri file_name
 <p align="center">The first version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-1">Here</a></p><img src="https://img.shields.io/badge/Tested-no-black?logo=linux">
 <img src="https://img.shields.io/badge/Tested-no-black?logo=linux">
 <img src="https://img.shields.io/badge/Tested-no-black?logo=linux">
+<img src="https://img.shields.io/badge/Tested-no-black?logo=linux">
