@@ -26,6 +26,9 @@
     <a href="https://googlefonts.github.io/noto-emoji-animation/">
         <img src="https://img.shields.io/badge/GIFS-black?logo=google">
     </a>
+    <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
+        <img src="https://img.shields.io/badge/Icons-black?logo=icon">
+    </a>
 </p>
 <h2 align="center">Features</h2>
 
@@ -201,5 +204,5 @@ SOFTWARE.
     </picture>
 </p>
 
-<p align="center">This emojis only for fun!</p>
+<p align="center">This emojis only for fun! <b>About this project</b></p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
