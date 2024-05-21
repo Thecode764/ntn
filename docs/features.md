@@ -26,7 +26,7 @@
 - NR file (NTN Requirements)
 
 <h2 align="center">What is package installer?</h2>
-<p align="center">On npm package manager you must enter i command or install command but in ntn you can use --i --in --ins --insta --instal and --install</p>
+<p align="center">On npm package manager you must enter i command or install command but in ntn you can use --i, --in, --ins, --insta, --instal, and --install</p>
 <h2 align="center">What is nr file</h2>
 <p align="center">The nr file (NTN Requirements) you can make a nr file for install requirements</p>
 <h5 align="center"><a href="./install.md">Next tutorial</a></h5>
