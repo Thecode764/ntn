@@ -1,6 +1,10 @@
 
 <p align="center">
     <img src="./logo/npm.png"width="90">
+    <picture>
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
+    </picture>
 </p>
 
 <h1 align="center">NTN: New features to npm</h1> 
