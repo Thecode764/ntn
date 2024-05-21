@@ -1,6 +1,6 @@
 if [[ "$1" == "--help" ]]; then
     echo -e "\x1b[33mWelcome to ntn"
-    echo -e "\x1b[39m--help: Show this text\n--i: Install a package\n--ri [filename]: Install a package with nr file"
+    echo -e "\x1b[39m--help: Show this text\n--i: Install a package\n--ri [filename]: Install a package with nr file\n--about: About ntn"
     echo -e "ntn --help\nNo error now\n" >> logs/log.txt 
 
 elif [[ "$1" == "--i" ]]; then
@@ -35,4 +35,14 @@ elif [[ "$1" == "--ri" ]]; then
     code=$(cat $2)
     npm install $code
     echo -e "ntn --install $code\nNo error now\n" >> logs/log.txt
+
+elif [[ "$1" == "--about" ]]; then
+    echo -e "\x1b[34m-------------------------
+| \x1b[33mName: NTN    \x1b[34m          |
+| \x1b[35mDeveloper: Thecode764 \x1b[34m |
+|                        |
+|                        |
+|------------------------|"
+echo -e "ntn --about\nNo error now\n" >> logs/log.txt
+
 fi
