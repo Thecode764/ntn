@@ -211,6 +211,11 @@ SOFTWARE.
 <p align="center">This emojis only for fun! <b>About this project</b></p>
 <h2 align="center">NTN Logo</h2>
 <p align="center">
+    <img src="./logo/ntn.png" width="200">
+
+    ```
     <img src="./logo/ntn.png">
+    ```
+    
 </p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
