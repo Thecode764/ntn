@@ -18,6 +18,7 @@
     </a>
     <img src="https://img.shields.io/badge/Version-4-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
+    <img src="https://img.shields.io/github/commit-activity/w/Thecode764/ntn/main">
 </p>
 <h2 align="center">Features</h2>
 
