@@ -19,6 +19,9 @@
     <img src="https://img.shields.io/badge/Version-4-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
     <img src="https://img.shields.io/github/commit-activity/w/Thecode764/ntn/main">
+    <a href="https://googlefonts.github.io/noto-emoji-animation/">
+        <img src="https://img.shields.io/badge/GIFS-black?logo=google">
+    </a>
 </p>
 <h2 align="center">Features</h2>
 
