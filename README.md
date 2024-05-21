@@ -173,7 +173,6 @@ SOFTWARE.
 
 <h2 align="center">Website</h2>
 <p align="center">Coming soon</p>
-<h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
 <h2 align="center">Features as emoji</h2>
 <p align="center">
     <img src="./assets/Firecracker.png">
@@ -192,3 +191,4 @@ SOFTWARE.
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="150">
     </picture>
 </p>
+<h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
