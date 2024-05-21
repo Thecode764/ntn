@@ -193,4 +193,13 @@ SOFTWARE.
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="150">
     </picture>
 </p>
+
+<p align="center">
+    <picture>
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.gif" alt="🥳" width="32" height="32">
+    </picture>
+</p>
+
+<p align="center">This emojis only for fun!</p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
