@@ -140,5 +140,5 @@ ntn --ri file_name
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thecode764&repo=ntn?theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thecode764&repo=ntn&?theme=dark">
 </p>
