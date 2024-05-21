@@ -138,3 +138,7 @@ ntn --ri file_name
          </picture>
     </a>
 </p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thecode764&repo=ntn&?custom_title=NTN%20Preview&?langs_count=2">
+</p>
