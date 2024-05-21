@@ -170,4 +170,4 @@ SOFTWARE.
 
 <h2 align="center">Website</h2>
 <p align="center">Coming soon</p>
-<h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of ntn</h2>
+<h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
