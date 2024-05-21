@@ -43,6 +43,6 @@ elif [[ "$1" == "--about" ]]; then
 |                        |
 |                        |
 |------------------------|"
-echo -e "ntn --about\nNo error now\n" >> logs/log.txt
+    echo -e "ntn --about\nNo error now\n" >> logs/log.txt
 
 fi
