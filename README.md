@@ -122,6 +122,8 @@ ntn --ri file_name
 <p align="center">The two version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-2">Here</a></p>
 <h2 align="center">Version 3 is out</h2>
 <p align="center">The three version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-3">Here</a></p>
+<h2 align="center">For view other version visit</h2>
+<p align="center"><a href="./project/releases.md">Here</a></p>
 <h2 align="center">Docs</h2>
 <p align="center">
     <a href="./docs/welcome.md">Docs</a>
