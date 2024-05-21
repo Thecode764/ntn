@@ -24,6 +24,7 @@
 - Package installer
 - Easy commands
 - NR file (NTN Requirements)
+- Log Feature
 
 <h2 align="center">How to install it?</h2>
 <p align="center">
