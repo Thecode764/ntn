@@ -175,8 +175,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-<h2 align="center">Website</h2>
-<p align="center">Coming soon</p>
 <h2 align="center">Features as emoji</h2>
 <p align="center">
     <img src="./assets/Firecracker.png">
