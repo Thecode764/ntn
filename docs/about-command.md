@@ -19,17 +19,9 @@
     <img src="https://img.shields.io/badge/Version-4-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
 </p>
-<h2 align="center">NR file</h2>
-<h3 align="center">NR file Syntax</h3>
-<p align="center">Use it like:</p>
+<h2 align="center">About command</h2>
+<p align="center">A command with a box for show about</p>
 
 ```
-vue react
+ntn --about
 ```
-<h3 align="center">Install with nr file</h3>
-
-```
-ntn --ri file-name
-```
-
-<h5 align="center"><a href="./log.md">Next tutorial</a></h5>

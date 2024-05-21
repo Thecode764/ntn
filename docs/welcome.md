@@ -16,7 +16,7 @@
             alt="Gitmoji"
         />
     </a>
-    <img src="https://img.shields.io/badge/Version-1-black?logo=linux">
+    <img src="https://img.shields.io/badge/Version-4-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
 </p>
 <p align="center">Hi on this tutorial i focused on how to use ntn? ntn is a fork of npm with new features read next tutorial for view features for install use README.md file</p>

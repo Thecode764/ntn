@@ -19,17 +19,7 @@
     <img src="https://img.shields.io/badge/Version-4-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
 </p>
-<h2 align="center">NR file</h2>
-<h3 align="center">NR file Syntax</h3>
-<p align="center">Use it like:</p>
+<h2 align="center">Log file</h2>
+<p align="center">If you run any command in ntn the command log saves on logs/log.txt</p>
 
-```
-vue react
-```
-<h3 align="center">Install with nr file</h3>
-
-```
-ntn --ri file-name
-```
-
-<h5 align="center"><a href="./log.md">Next tutorial</a></h5>
+<h5 align="center"><a href="./about-command.md">Next tutorial</a></h5>
