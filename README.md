@@ -278,4 +278,11 @@ SOFTWARE.
     <img src="https://img.shields.io/github/all-contributors/Thecode764/ntn?style=for-the-badge">
 </p>
 
+<p align="center">
+    <h2 align="center">A screenshot from website</h2>
+</p>
+
+<p align="center">
+    <img src="./screenshots/search.gif">
+</p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
