@@ -228,5 +228,7 @@ SOFTWARE.
 <img src="https://raw.githubusercontent.com/Thecode764/ntn/main/logo/ntn.png" width="200">
 ```
 <h2 align="center">Website</h2>
-<a href="https://thecode764.github.io/ntn/">Here</a>
+<p align="center">
+    <a href="https://thecode764.github.io/ntn/">Here</a>
+</p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
