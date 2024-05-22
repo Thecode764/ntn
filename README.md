@@ -32,7 +32,7 @@
 </p>
 <h2 align="center">Features</h2>
 
-- Package installer
+- Package installer/uninstaller
 - Easy commands
 - NR file (NTN Requirements)
 - Log Feature
