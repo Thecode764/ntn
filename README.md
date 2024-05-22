@@ -240,6 +240,13 @@ SOFTWARE.
 <p align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="150" />
 </p>
+
+<p align="center">
+    <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/512.gif" alt="🙃" width="150">
+</picture>
+</p>
 <p align="center">This emojis only for fun! <b>About this project</b></p>
 <h2 align="center">NTN Logo</h2>
 <p align="center">
