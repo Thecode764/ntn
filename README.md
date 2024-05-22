@@ -248,6 +248,13 @@ SOFTWARE.
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/512.gif" alt="🙃" width="150">
     </picture>
 </p>
+
+<p align="center">
+    <picture>
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" alt="🤩" width="150>
+    </picture>
+</p>
 <p align="center">This emojis only for fun! <b>About this project</b></p>
 <h2 align="center">NTN Logo</h2>
 <p align="center">
