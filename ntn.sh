@@ -1,6 +1,6 @@
 if [[ "$1" == "--help" ]]; then
     echo -e "\x1b[33mWelcome to ntn"
-    echo -e "\x1b[39m--help: Show this text\n--i: Install a package\n--ri [filename]: Install a package with nr file\n--about: About ntn"
+    echo -e "\x1b[39m--help: Show this text\n--i [pack-name]: Install a package\n--ri [filename]: Install a package with nr file\n--about: About ntn\n--uninstall [pack-name]: Uninstall a package"
     echo -e "ntn --help\nNo error now\n" >> logs/log.txt 
 
 elif [[ "$1" == "--i" ]]; then
@@ -44,5 +44,9 @@ elif [[ "$1" == "--about" ]]; then
 |                        |
 |------------------------|"
     echo -e "ntn --about\nNo error now\n" >> logs/log.txt
+
+elif [[ "$1" == "--uninstall" ]]; then
+    npm uninstall $2
+    echo -e "ntn --uninstal $2\nNo error now\n" >> logs/log.txt
 
 fi
