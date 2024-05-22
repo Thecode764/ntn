@@ -20,7 +20,7 @@
             alt="Gitmoji"
         />
     </a>
-    <img src="https://img.shields.io/badge/Version-5-black?logo=linux">
+    <img src="https://img.shields.io/badge/Version-6-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
     <img src="https://img.shields.io/github/commit-activity/w/Thecode764/ntn/main">
     <a href="https://googlefonts.github.io/noto-emoji-animation/">
