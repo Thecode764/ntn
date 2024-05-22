@@ -19,11 +19,11 @@
     <img src="https://img.shields.io/badge/Version-4-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
 </p>
-<h2 align="center">About command</h2>
-<p align="center">A command with a box for show about</p>
+<h2 align="center">Uninstall command</h2>
+<p align="center">A command for uninstall packages</p>
 
 ```
-ntn --about
+ntn --uninstall [pack-name]
 ```
 
 <h5 align="center"><a href="./uninstall.md">Next tutorial</a></h5>
