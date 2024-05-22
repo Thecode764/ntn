@@ -124,9 +124,16 @@ vue react google-translate
 <p align="center">For add new package you can use space</p>
 <h4 align="center">Command syntax</h4>
 
-```
+```<
 ntn --ri file_name
 ```
+<h3 align="center">uninstall</h3>
+<p align="center">Uninstall a package</p>
+
+```
+ntn --uninstall [pack-name]
+```
+
 <h2 align="center">Version 1 is out</h2>
 <p align="center">The first version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-1">Here</a></p>
 <h2 align="center">Version 2 is out</h2>
