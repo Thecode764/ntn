@@ -30,9 +30,11 @@
 </p>
 <h2 align="center">Features</h2>
 
-- Package installer
+- Package installer/uninstaller
 - Easy commands
 - NR file (NTN Requirements)
+- Log Feature
+- Windows/Linux/Macos Support
 
 <h2 align="center">What is package installer?</h2>
 <p align="center">On npm package manager you must enter i command or install command but in ntn you can use --i, --in, --ins, --insta, --instal, and --install</p>
