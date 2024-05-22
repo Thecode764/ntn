@@ -285,4 +285,11 @@ SOFTWARE.
 <p align="center">
     <img src="./screenshots/search.gif">
 </p>
+<p align="center">
+     <h2>Contributors</h2>
+</p>
+
+<p align="center">
+     <img src="https://contrib.rocks/image?repo=Thecode764/ntn">
+</p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
