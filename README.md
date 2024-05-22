@@ -40,6 +40,7 @@
 - Log Feature
 
 <h2 align="center">How to install it?</h2>
+<h4 align="center">Linux/MacOS
 <p align="center">
 
 ```
@@ -50,6 +51,15 @@ sudo cp ./ntn.sh /usr/bin/ntn
 ```    
 
 </p>
+
+<h4 align="center">Windows</h4>
+
+```
+git clone https://github.com/Thecode764/ntn
+cd ntn
+./ntn.sh
+```
+
 <h2 align="center">Commands</h2>
 <h3 align="center">Help</h3>
 <p align="center">
