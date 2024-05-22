@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
     <img src="https://img.shields.io/badge/Version-5-black?logo=windows">
-    <img src="https://img.shields.io/badge/Tested-no-black?logo=windows">
+    <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
 </p>
 <h2 align="center">Uninstall command</h2>
 <p align="center">A command for uninstall packages</p>

@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
     <img src="https://img.shields.io/badge/Version-5-black?logo=windows">
-    <img src="https://img.shields.io/badge/Tested-no-black?logo=windows">
+    <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
 </p>
 <h2 align="center">Versions</h2>
 <h2 align="center">Version 1 is out</h2>
