@@ -25,6 +25,8 @@
     <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
+    <img src="https://img.shields.io/badge/Version-5-black?logo=windows">
+    <img src="https://img.shields.io/badge/Tested-no-black?logo=windows">
 </p>
 <h2 align="center">Log file</h2>
 <p align="center">If you run any command in ntn the command log saves on logs/log.txt</p>

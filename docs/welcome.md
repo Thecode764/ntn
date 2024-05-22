@@ -25,6 +25,8 @@
     <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
+    <img src="https://img.shields.io/badge/Version-5-black?logo=windows">
+    <img src="https://img.shields.io/badge/Tested-no-black?logo=windows">
 </p>
 <p align="center">Hi on this tutorial i focused on how to use ntn? ntn is a fork of npm with new features read next tutorial for view features for install use README.md file</p>
 <h5 align="center"><a href="./features.md">Next tutorial</a></h5>
