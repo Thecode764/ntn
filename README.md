@@ -251,4 +251,10 @@ SOFTWARE.
 <p align="center">
     <a href="https://thecode764.github.io/ntn/">Here</a>
 </p>
+
+<h2 align="center">Contributors</h2>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
