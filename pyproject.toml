@@ -1,8 +1,0 @@
-[build-system]
-requires = ["flit_core >=3.2,<4"]
-build-backend = "flit_core.buildapi"
-
-[project]
-name = "NTN"
-authors = [{name = "Artin karimi", email = "artin962354@proton.me"}]
-dynamic = ["5", "Generate new features for NTN"]
