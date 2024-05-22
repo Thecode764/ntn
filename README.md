@@ -37,6 +37,7 @@
     <a href="https://thecode764.github.io/ntn">
         <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white">
     </a>
+    <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
 </p>
 <h2 align="center">Features</h2>
 

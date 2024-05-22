@@ -33,6 +33,7 @@
     <a href="https://thecode764.github.io/ntn">
         <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white">
     </a>
+    <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
 </p>
 <h2 align="center">Uninstall command</h2>
 <p align="center">A command for uninstall packages</p>
