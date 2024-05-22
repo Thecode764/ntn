@@ -25,7 +25,7 @@
     <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
-    <img src="https://img.shields.io/badge/Version-5-black?logo=windows">
+    <img src="https://img.shields.io/badge/Version-6-black?logo=windows">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
 </p>
 <h2 align="center">Features</h2>
