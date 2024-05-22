@@ -1,71 +1,62 @@
 @echo off
 
-IF [[ "%~1" == "--help" "]]" (
-  echo "-e" "[33mWelcome to ntn"
-  echo "-e" "[39m--help: Show this text
-  --i [pack-name]: Install a package
-  --ri [filename]: Install a package with nr file
-  --about: About ntn
-  --uninstall [pack-name]: Uninstall a package"
-  echo "-e" "ntn --help
-  No error now
-  " REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-) ELSE (
-  IF [[ "%~1" == "--i" "]]" (
-    npm "install" "%~2"
-    echo "-e" "ntn --install %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-  ) ELSE (
-    IF [[ "%~1" == "--in" "]]" (
-      npm "install" "%~2"
-      echo "-e" "ntn --install %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-    ) ELSE (
-      IF [[ "%~1" == "--ins" "]]" (
-        npm "install" "%~2"
-        echo "-e" "ntn --install %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-      ) ELSE (
-        IF [[ "%~1" == "--inst" "]]" (
-          npm "install" "%~2"
-          echo "-e" "ntn --install %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-        ) ELSE (
-          IF [[ "%~1" == "--insta" "]]" (
-            npm "install" "%~2"
-            echo "-e" "ntn --install %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-          ) ELSE (
-            IF [[ "%~1" == "--instal" "]]" (
-              npm "install" "%~2"
-              echo "-e" "ntn --install %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-            ) ELSE (
-              IF [[ "%~1" == "--install" "]]" (
-                npm "install" "%~2"
-                echo "-e" "ntn --install %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-              ) ELSE (
-                IF [[ "%~1" == "--ri" "]]" (
-                  SET code=%undefined%
-                  npm "install" "%code%"
-                  echo "-e" "ntn --install %code%\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-                ) ELSE (
-                  IF [[ "%~1" == "--about" "]]" (
-                    echo "-e" "[34m-------------------------
-                    | [33mName: NTN    [34m          |
-                    | [35mDeveloper: Thecode764 [34m |
-                    |                        |
-                    |                        |
-                    |------------------------|"
-                    echo "-e" "ntn --about
-                    No error now
-                    " REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-                  ) ELSE (
-                    IF [[ "%~1" == "--uninstall" "]]" (
-                      npm "uninstall" "%~2"
-                      echo "-e" "ntn --uninstal %~2\nNo error now\n" REM UNKNOWN: {"type":"Redirect","op":{"text":">>","type":"dgreat"},"file":{"text":"logs/log.txt","type":"Word"}}
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
+:: Define color codes
+setlocal enabledelayedexpansion
+color 07
+set "RED=31"
+set "GREEN=32"
+set "YELLOW=33"
+set "BLUE=34"
+set "MAGENTA=35"
+set "CYAN=36"
+set "WHITE=37"
+
+:: Function to print colored text
+goto :printColoredText
+:printColoredText
+for %%A in (%*) do (
+    set "arg=%%A"
+    if "!arg!"=="" goto :nextArg
+    if "!arg:~0,1!"=="-" (
+        echo!arg!
+    ) else (
+        echo!arg > logs/log.txt
     )
-  )
+    :nextArg
+)
+
+:: Main script
+if /I "%~1"=="--help" (
+    echo Welcome to ntn
+    echo --help: Show this text
+    echo --i [pack-name]: Install a package
+    echo --ri [filename]: Install a package with nr file
+    echo --about: About ntn
+    echo --uninstall [pack-name]: Uninstall a package
+    echo ntn --help
+    echo No error now
+) else (
+    if /I "%~1:~0,3%"=="--i" (
+        npm install "%~2"
+        echo ntn --install %~2
+    ) else (
+        if /I "%~1:~0,5%"=="--ri" (
+            npm install "%~2"
+            echo ntn --install %~2
+        ) else (
+            if /I "%~1:~0,6%"=="--about" (
+                echo -------------------------
+                echo Name: NTN
+                echo Developer: Thecode764
+                echo -------------------------
+                echo ntn --about
+                echo No error now
+            ) else (
+                if /I "%~1:~0,10%"=="--uninstall" (
+                    npm uninstall "%~2"
+                    echo ntn --uninstall %~2
+                )
+            )
+        )
+    )
 )
