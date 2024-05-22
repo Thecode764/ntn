@@ -30,6 +30,7 @@
     <img src="https://api.statusbadges.me/badge/status/1125429179685548112" alt="status">
     <img src="https://api.statusbadges.me/badge/playing/1125429179685548112" alt="playing">
     <img src="https://api.statusbadges.me/badge/vscode/1125429179685548112" alt="vscode">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </p>
 <h2 align="center">About command</h2>
 <p align="center">A command with a box for show about</p>
