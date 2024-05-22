@@ -27,6 +27,9 @@
     </a>
     <img src="https://img.shields.io/badge/Version-6-black?logo=windows">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
+    <img src="https://api.statusbadges.me/badge/status/1125429179685548112" alt="status">
+    <img src="https://api.statusbadges.me/badge/playing/1125429179685548112" alt="playing">
+    <img src="https://api.statusbadges.me/badge/vscode/1125429179685548112" alt="vscode">
 </p>
 <h2 align="center">Install command</h2>
 <p align="center">Use this command for install npm packages</p>

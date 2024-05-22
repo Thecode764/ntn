@@ -27,6 +27,9 @@
     </a>
     <img src="https://img.shields.io/badge/Version-6-black?logo=windows">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
+    <img src="https://api.statusbadges.me/badge/status/1125429179685548112" alt="status">
+    <img src="https://api.statusbadges.me/badge/playing/1125429179685548112" alt="playing">
+    <img src="https://api.statusbadges.me/badge/vscode/1125429179685548112" alt="vscode">
 </p>
 <p align="center">Hi on this tutorial i focused on how to use ntn? ntn is a fork of npm with new features read next tutorial for view features for install use README.md file</p>
 <h5 align="center"><a href="./features.md">Next tutorial</a></h5>
