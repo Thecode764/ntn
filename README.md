@@ -215,6 +215,9 @@ SOFTWARE.
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="150" />
 </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="150" />
+</p>
 <p align="center">This emojis only for fun! <b>About this project</b></p>
 <h2 align="center">NTN Logo</h2>
 <p align="center">
@@ -224,5 +227,6 @@ SOFTWARE.
 ```
 <img src="https://raw.githubusercontent.com/Thecode764/ntn/main/logo/ntn.png" width="200">
 ```
-
+<h2 align="center">Website</h2>
+<a href="https://thecode764.github.io/ntn/">Here</a>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
