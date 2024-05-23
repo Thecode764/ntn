@@ -285,9 +285,7 @@ SOFTWARE.
 <p align="center">
     <img src="./screenshots/search.gif">
 </p>
-<p align="center">
-     <h2>Contributors</h2>
-</p>
+<h2 align="center">Contributors</h2>
 
 <p align="center">
      <img src="https://contrib.rocks/image?repo=Thecode764/ntn">
