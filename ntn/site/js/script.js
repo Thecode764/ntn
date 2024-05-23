@@ -14,7 +14,7 @@ function getOperatingSystem() {
     if (/iPad|iPhone|iPod/.test(userAgent) &&!window.MSStream) {
         window.location.href = 'notavailable.html'
     } else if (/android/i.test(userAgent)) {
-        window.location.href = 'notavailable.html'
+        window.location.href = 'https://thecode764.github.io/ntn/ntn/site/notavailable.html'
     }
 
     return os;
