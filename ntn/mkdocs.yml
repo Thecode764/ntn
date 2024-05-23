@@ -1,3 +1,7 @@
 site_name: NTN Docs
 theme:
   name: material
+  palette:
+    primary: black
+  features:
+    - navigation.instant
