@@ -290,4 +290,9 @@ SOFTWARE.
 <p align="center">
      <img src="https://contrib.rocks/image?repo=Thecode764/ntn">
 </p>
+
+<h2 align="center">Docs</h2>
+<p align="center">
+    <a href="https://thecode764.github.io/ntn/ntn/site">Here</a>
+</p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
