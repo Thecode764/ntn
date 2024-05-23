@@ -35,11 +35,9 @@
     </a>
     <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
 </p>
-<h2 align="center">Uninstall command</h2>
-<p align="center">A command for uninstall packages</p>
+<h2 align="center">GIP command</h2>
+<p align="center">A command for get installed packages</p>
 
 ```
-ntn --uninstall [pack-name]
+ntn --gip
 ```
-
-<h5 align="center"><a href="./gip.md">Next tutorial</a></h5>
