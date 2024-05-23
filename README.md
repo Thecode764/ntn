@@ -295,4 +295,10 @@ SOFTWARE.
 <p align="center">
     <a href="https://thecode764.github.io/ntn/ntn/site">Here</a>
 </p>
+
+<h2 align="center">Support</h2>
+<p align="center">Go to my discord for support</p>
+<p align="center">
+    <img src="https://lanyard.cnrad.dev/api/1125429179685548112">
+</p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
