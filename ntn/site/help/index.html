@@ -368,22 +368,21 @@ Ask me now at discord</p>
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/1125429179685548112">
 </p>
-
 <p id="status"></p>
 <script>
-    fetch('https://api.lanyard.rest/v1/users/1125429179685548112')
+fetch('https://api.lanyard.rest/v1/users/1125429179685548112')
            .then(response => response.json())
            .then(data => {
                 const statusElement = document.getElementById('status');
                 if (data.success) {
-                    statusElement.innerHTML = `<strong>I'm currently ${data.data.discord_status} on Discord</strong>`;
+                    statusElement.innerHTML = `<strong>I'm currently ${data.data.discord_status}</strong> on discord`;
                 } else {
                     statusElement.innerHTML = "Failed to load status.";
                 }
             })
            .catch(error => console.error('Error:', error));
-</script>
 
+</script>
 
 
 
