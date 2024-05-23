@@ -85,3 +85,28 @@ Use it like
 ```bash
 ntn --uninstall [pack name]
 ```
+OR
+```bash
+ntn --u [pack name]
+```
+```bash
+ntn --un [pack name]
+```
+```bash
+ntn --uni[pack name]
+```
+```bash
+ntn --unin [pack name]
+```
+```bash
+ntn --unins [pack name]
+```
+```bash
+ntn --uninst [pack name]
+```
+```bash
+ntn --uninsta [pack name]
+```
+```bash
+ntn --uninstal [pack name]
+```
