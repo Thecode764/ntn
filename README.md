@@ -168,6 +168,7 @@ ntn --uninstall [pack-name]
 <h2 align="center">Docs</h2>
 <p align="center">
     <a href="./docs/welcome.md">Docs</a>
+    <a href="https://thecode764.github.io/ntn/ntn/site">Online docs</a>
 </p>
 <p align="center">
     <a href="https://star-history.com/#Thecode764/ntn&Date">
