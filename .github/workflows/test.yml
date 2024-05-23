@@ -1,11 +1,10 @@
 name: Test
-run-name: Test and push
 on: [push]
-    jobs:
-         Test-And-Push:
-              runs-on: ubuntu-latest
-              steps:
-                 - run: git clone https://github.com/Thecode764/ntn
-                 - run: cd ntn
-                 - run: bash ntn.sh --help
-                 - run: echo "No error by test" >> .github/logs.txt
+jobs:
+  Test-And-Push:
+    runs-on: ubuntu-latest
+    steps:
+      - run: git clone https://github.com/Thecode764/ntn
+      - run: cd ntn
+      - run: bash ntn.sh --help
+      - run: echo "No error by test" >>.github/logs.txt
