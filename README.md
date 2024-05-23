@@ -147,7 +147,7 @@ vue react google-translate
 <p align="center">For add new package you can use space</p>
 <h4 align="center">Command syntax</h4>
 
-```<
+```
 ntn --ri file_name
 ```
 <h3 align="center">uninstall</h3>
