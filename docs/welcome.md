@@ -6,7 +6,7 @@
 <h1 align="center">NTN: New features to npm</h1> 
 <p align="center">New features to npm for example requirements file</p>
 <p align="center">
-    <a href="https://discord.com/users/1125429179685548112"><img src="https://img.shields.io/badge/Discord-black?logo=discord"></a> 
+   <a href="https://discord.com/users/1125429179685548112"><img src="https://img.shields.io/badge/Discord-black?logo=discord"></a> 
     <img src="https://img.shields.io/github/last-commit/Thecode764/ntn">
     <img src="https://img.shields.io/github/forks/Thecode764/ntn">
     <img src="https://img.shields.io/github/stars/Thecode764/ntn">
@@ -16,7 +16,7 @@
             alt="Gitmoji"
         />
     </a>
-    <img src="https://img.shields.io/badge/Version-7-black?logo=linux">
+    <img src="https://img.shields.io/badge/Version-8-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
     <img src="https://img.shields.io/github/commit-activity/w/Thecode764/ntn/main">
     <a href="https://googlefonts.github.io/noto-emoji-animation/">
@@ -25,7 +25,7 @@
     <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
-    <img src="https://img.shields.io/badge/Version-7-black?logo=windows">
+    <img src="https://img.shields.io/badge/Version-8-black?logo=windows">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
     <img src="https://api.statusbadges.me/badge/status/1125429179685548112" alt="status">
     <img src="https://api.statusbadges.me/badge/playing/1125429179685548112" alt="playing">
