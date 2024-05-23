@@ -42,7 +42,7 @@
 <h2 align="center">Features</h2>
 
 - Package installer/uninstaller
-- Easy commands
+- Easy commands (Linux/MacOS Only!)
 - NR file (NTN Requirements)
 - Log Feature (Linux/Macos Only!)
 - Windows/Linux/Macos Support
