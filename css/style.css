@@ -129,3 +129,10 @@ body {
 .btn-53:hover span:nth-child(6) {
   transition-delay: 0.5s;
 }
+
+.flex-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
