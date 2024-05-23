@@ -44,7 +44,7 @@
 - Package installer/uninstaller
 - Easy commands
 - NR file (NTN Requirements)
-- Log Feature
+- Log Feature (Linux/Macos Only!)
 - Windows/Linux/Macos Support
 
 <h2 align="center">How to install it?</h2>
