@@ -51,7 +51,39 @@ elif [[ "$1" == "--uninstall" ]]; then
     echo -e "ntn --uninstall $2\nNo error now\n" >> logs/log.txt
     sed -i "/$2/d".ntn
 
-elif [[ "$1" == "--gip "]]; then
+elif [[ "$1" == "--gip"]]; then
     npm list -g
     echo -e "ntn --gip\nNo error now!\n" >>‌ logs/log.txt 
+
+elif [[ "$1" == "--u"]]; then
+    npm uninstall $2
+    echo -e "ntn --u $2\nNo error now!\n" >>‌ logs/log.txt 
+
+elif [[ "$1" == "--un"]]; then
+    npm uninstall $2
+    echo -e "ntn --gip\nNo error now!\n" >>‌ logs/log.txt 
+
+elif [[ "$1" == "--uni"]]; then
+    npm uninstall $2
+    echo -e "ntn --uni $2\nNo error now!\n" >>‌ logs/log.txt
+
+elif [[ "$1" == "--unin"]]; then
+    npm uninstall -g
+    echo -e "ntn --unin $2\nNo error now!\n" >>‌ logs/log.txt  
+
+elif [[ "$1" == "--unins"]]; then
+    npm uninstall $2
+    echo -e "ntn --unins $2\nNo error now!\n" >>‌ logs/log.txt
+
+elif [[ "$1" == "--uninst"]]; then
+    npm uninstall $2
+    echo -e "ntn --uninst\nNo error now!\n" >>‌ logs/log.txt
+
+elif [[ "$1" == "--uninsta"]]; then
+    npm uninstall $2
+    echo -e "ntn --uninsta $2\nNo error now!\n" >>‌ logs/log.txt   
+
+elif [[ "$1" == "--uninstal"]]; then
+    npm uninstall $2
+    echo -e "ntn --uninstal\nNo error now!\n" >>‌ logs/log.txt 
 fi
