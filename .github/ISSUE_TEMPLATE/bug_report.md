@@ -25,6 +25,7 @@
     <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
+    <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml/badge.svg">
 </p>
 
 <h1 align="center">Bug report</h2>
