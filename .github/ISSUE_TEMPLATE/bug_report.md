@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./../logo/npm.png"width="90">
+    <img src="./../logo/ntn.png"width="90">
 </p>
 
 <h1 align="center">NTN: New features to npm</h1> 
@@ -16,7 +16,7 @@
             alt="Gitmoji"
         />
     </a>
-    <img src="https://img.shields.io/badge/Version-5-black?logo=linux">
+    <img src="https://img.shields.io/badge/Version-8-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
     <img src="https://img.shields.io/github/commit-activity/w/Thecode764/ntn/main">
     <a href="https://googlefonts.github.io/noto-emoji-animation/">
