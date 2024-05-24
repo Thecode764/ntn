@@ -37,6 +37,7 @@
     <a href="https://thecode764.github.io/ntn">
         <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white">
     </a>
+    <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml/badge.svg">
     <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
 </p>
 <h2 align="center">Features</h2>
@@ -301,5 +302,9 @@ SOFTWARE.
 <p align="center">Go to my discord for support</p>
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/1125429179685548112">
+</p>
+<h2 align="center">Website build status</h2>
+<p align="center">
+     <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml">
 </p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
