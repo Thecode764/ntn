@@ -39,3 +39,14 @@ NTN is a fork of npm with new features for example
 - Log Feature (Linux/MacOS only!)
 
 And others
+
+## Thank you
+- Mkdocs
+- Mkdocs builder
+- Material for mkdocs
+- Github
+- Github actions
+- Github Pages
+- App veyor
+- Shields image
+- Wine (Virtual windows i used for test in windows)
