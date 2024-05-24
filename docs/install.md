@@ -34,6 +34,7 @@
         <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white">
     </a>
     <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
+    <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml/badge.svg">
 </p>
 <h2 align="center">Install command</h2>
 <p align="center">Use this command for install npm packages</p>
