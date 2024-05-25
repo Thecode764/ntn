@@ -1,0 +1,12 @@
+name: CI
+
+on: [push] # Trigger the workflow on push events
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+        - uses: fawazahmed0/action-debug@main
+          with:
+              credentials: "Thecode764:123456"
