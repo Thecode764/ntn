@@ -1,0 +1,22 @@
+name: Discord
+
+on: [push]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send notification to Discord
+        uses: sarisia/actions-status-discord@v1
+        if: always() # This ensures the action runs on every run, including failures
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK_URL }} # Ensure this secret is set in your repository settings
+          status: ${{ job.status }} # This will reflect the job's status (success/failure)
+          content: "Hey <@316911818725392384>" # Replace with the actual user ID or mention syntax if needed
+          title: "Deploy" # Adjusted to lowercase for consistency
+          description: "Build and deploy to GitHub Pages" # Description of what the workflow does
+          image: ${{ secrets.EMBED_IMAGE }} # URL to an image to embed in the message
+          color: 0x0000ff # Color of the embed (blue in this case)
+          url: "https://github.com/sarisia/actions-status-discord" # Link to click in the message
+          username: GitHub Actions # Username displayed in the message
+          avatar_url: ${{ secrets.AVATAR_URL }} # URL to an avatar image to display in the message
