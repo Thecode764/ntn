@@ -1,0 +1,24 @@
+on:
+    schedule: [{cron: "*/7 * * * *"}]
+    workflow_dispatch:
+    push: {branches: ["master", "main"]}
+  
+jobs:
+    status:
+      runs-on: ubuntu-latest
+      name: Update Discord Status
+      steps:
+        - name: Checkout files
+          uses: actions/checkout@v3
+        - name: Update Status
+          uses: CompeyDev/discord-status-action@0.2.4
+          with:
+            file: README.md
+            id: "" # Replace with your Discord User ID.
+        - name: Commit and push if there are changes
+          run: |-
+            git diff
+            git config --global user.email "actions@github.com"
+            git config --global user.name "Github Actions"
+            git diff --quiet || (git add -u && git commit -m "🚀 Update Discord Status")
+            git push               
