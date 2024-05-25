@@ -1,0 +1,10 @@
+name = "NTN"
+description = "Generate new features for npm"
+license = "MIT"
+homepage = "https://github.com/Thecode764/ntn"
+min_version = "0.17.0"
+demo = "https://st1020.github.io/ntn/"
+
+[author]
+name = "Thecode764"
+homepage = "https://Thecode764.github.io"
