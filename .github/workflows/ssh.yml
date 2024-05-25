@@ -1,0 +1,14 @@
+name: Start ssh
+
+runs-on: ubuntu-latest
+
+jobs:
+   steps:
+      - name: Start SSH
+        uses: Tofandel/ssh-server-action@v1.0.0
+        with:
+          hostname: https://thecode764.github.io/ntn # Optional, the display hostname of the server
+          port: 2222 # Optional, default value is 22. The exposed ssh port
+          user_name: root # Optional, default value is ssh-user
+          user_password: ${{ actions.PASSWORD }} # Optional
+          sudo_access: true # Optional, allow user to use sudo without password, default: false
