@@ -308,3 +308,4 @@ SOFTWARE.
      <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml/badge.svg">
 </p>
 <h2 align="center">Copyright (c) 2024 Artin karimi<br>NTN is a fork of npm</h2>
+<h2 align="center">Discord status</h2>
