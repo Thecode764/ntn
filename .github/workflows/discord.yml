@@ -12,7 +12,7 @@ jobs:
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK_URL }} # Ensure this secret is set in your repository settings
           status: ${{ job.status }} # This will reflect the job's status (success/failure)
-          content: "Hey <@316911818725392384>" # Replace with the actual user ID or mention syntax if needed
+          content: "Hey <@1125429179685548112>" # Replace with the actual user ID or mention syntax if needed
           title: "Deploy" # Adjusted to lowercase for consistency
           description: "Build and deploy to GitHub Pages" # Description of what the workflow does
           image: ${{ secrets.EMBED_IMAGE }} # URL to an image to embed in the message
