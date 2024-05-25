@@ -1,0 +1,7 @@
+name: Notify Discord
+uses: discord-actions/message@v2
+with:
+  webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
+  message: "Commit ${{ github.event.workflow_run.head_commit.message }}"
+  username: "Github"
+  avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
