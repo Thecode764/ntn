@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discord support
+    url: https://discord.com/users/1125429179685548112
+    about: My discord support
+  - name: Docs
+     url: https://thecode764.github.io/ntn/ntn/site
+     about: The ntn docs
+  - name: Installation
+     url: https://thecode764.github.io/ntn/installation.html
+     about: How to install ntn?
