@@ -39,6 +39,7 @@
     </a>
     <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml/badge.svg">
     <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
+    <img src="https://wakatime.com/badge/user/186ebd96-46f0-4a90-94bb-eec738927bef/project/a7678001-28c1-419f-b3d0-a278aa9bfccf.svg">
 </p>
 <h2 align="center">Features</h2>
 
