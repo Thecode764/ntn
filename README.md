@@ -313,11 +313,16 @@ SOFTWARE.
 
 <!-- BLOG-POST-LIST:START -->
 - [How to install ntn?](https://Thecode764.github.io/ntn/blog/hti/)
+- [Join developer team](https://Thecode764.github.io/ntn/blog/join-dev-team/)
 - [NTN Websites](https://Thecode764.github.io/ntn/blog/ntn-websites/)
 - [What is easy command](https://Thecode764.github.io/ntn/blog/wec/)
 - [Welcome to ntn](https://Thecode764.github.io/ntn/blog/welcome/)
+<<<<<<< HEAD
 - [Version 9 is out 🥳](https://Thecode764.github.io/ntn/blog/v-9/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Contribute project</h2>
 <p align="center">Read contribute.md</p>
+=======
+<!-- BLOG-POST-LIST:END -->
+>>>>>>> refs/remotes/origin/main
