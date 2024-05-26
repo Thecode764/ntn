@@ -318,3 +318,6 @@ SOFTWARE.
 - [Welcome to ntn](https://Thecode764.github.io/ntn/blog/welcome/)
 - [Version 9 is out 🥳](https://Thecode764.github.io/ntn/blog/v-9/)
 <!-- BLOG-POST-LIST:END -->
+
+<h2 align="center">Contribute project</h2>
+<p align="center">Read contribute.md</p>

@@ -77,6 +77,26 @@
         
     </entry>
     <entry xml:lang="en">
+        <title>Contribute ntn</title>
+        <published>2024-05-26T00:00:00+00:00</published>
+        <updated>2024-05-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Thecode764
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Thecode764.github.io/ntn/blog/ntn-contribute/"/>
+        <id>https://Thecode764.github.io/ntn/blog/ntn-contribute/</id>
+        
+        <content type="html" xml:base="https://Thecode764.github.io/ntn/blog/ntn-contribute/">&lt;h2 align=&quot;center&quot;&gt;How to contribute?&lt;&#x2F;h2&gt;
+&lt;p align=&quot;center&quot;&gt;Create a fork of ntn&lt;br&gt;Include you changes&lt;br&gt;Create a pull request&lt;br&gt;Wait for accept you pull request&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>NTN Websites</title>
         <published>2024-05-26T00:00:00+00:00</published>
         <updated>2024-05-26T00:00:00+00:00</updated>
