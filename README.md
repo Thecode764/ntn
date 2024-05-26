@@ -312,4 +312,7 @@ SOFTWARE.
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install ntn?](https://Thecode764.github.io/ntn/blog/hti/)
+- [Welcome to ntn](https://Thecode764.github.io/ntn/blog/welcome/)
+- [Version 9 is out 🥳](https://Thecode764.github.io/ntn/blog/v-9/)
 <!-- BLOG-POST-LIST:END -->
