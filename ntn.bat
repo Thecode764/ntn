@@ -34,6 +34,7 @@ if /I "%~1"=="--help" (
     echo --about: About ntn
     echo --uninstall [pack-name]: Uninstall a package
     echo --gip: Get installed packages
+    echo --search: Search a package
     echo ntn --help
     echo No error now
 ) else (
@@ -58,7 +59,10 @@ if /I "%~1"=="--help" (
                     echo ntn --uninstall %~2
                 )  if /I "%~1:~0,10%"=="--gip" (
                     npm list -g
-                ) 
+                )
+                if /I "%~1:~0,10%"=="--search" (
+                    npm search %~2
+                )  
             )
         )
     )
