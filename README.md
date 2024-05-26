@@ -313,6 +313,7 @@ SOFTWARE.
 
 <!-- BLOG-POST-LIST:START -->
 - [How to install ntn?](https://Thecode764.github.io/ntn/blog/hti/)
+- [NTN Websites](https://Thecode764.github.io/ntn/blog/ntn-websites/)
 - [What is easy command](https://Thecode764.github.io/ntn/blog/wec/)
 - [Welcome to ntn](https://Thecode764.github.io/ntn/blog/welcome/)
 - [Version 9 is out 🥳](https://Thecode764.github.io/ntn/blog/v-9/)
