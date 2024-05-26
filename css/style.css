@@ -136,3 +136,13 @@ body {
   align-items: center;
   flex-direction: column;
 }
+
+.versions {
+  background-color: white;
+  height: 900px;
+  border-radius: 20px;
+}
+
+.m-ver {
+  margin-left: 10px;
+}
