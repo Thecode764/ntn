@@ -110,3 +110,28 @@ ntn --uninsta [pack name]
 ```bash
 ntn --uninstal [pack name]
 ```
+## Search command
+A command for search packages
+Use it like
+```ntn --search [package name]
+```
+OR
+```
+ntn --s [package name]
+```
+OR
+```
+ntn --se [package name]
+```
+OR
+```
+ntn --sea [package name]
+```
+OR
+```
+ntn --sear [package name]
+```
+OR
+```
+ntn --searc [package name]
+```

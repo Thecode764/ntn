@@ -16,7 +16,7 @@
             alt="Gitmoji"
         />
     </a>
-    <img src="https://img.shields.io/badge/Version-8-black?logo=linux">
+    <img src="https://img.shields.io/badge/Version-9-black?logo=linux">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=linux">
     <img src="https://img.shields.io/github/commit-activity/w/Thecode764/ntn/main">
     <a href="https://googlefonts.github.io/noto-emoji-animation/">
@@ -25,7 +25,7 @@
     <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
-    <img src="https://img.shields.io/badge/Version-8-black?logo=windows">
+    <img src="https://img.shields.io/badge/Version-9-black?logo=windows">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
     <img src="https://api.statusbadges.me/badge/status/1125429179685548112" alt="status">
     <img src="https://api.statusbadges.me/badge/playing/1125429179685548112" alt="playing">
@@ -51,3 +51,7 @@
 <p align="center">The six version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-6">Here</a></p>
 <h2 align="center">Version 7 is out</h2>
 <p align="center">The seven version of ntn is out you can download it now at <a href="https://github.com/Thecode764/ntn/releases/tag/version-7">Here</a></p>
+<h2 align="center">Version 8 is out</h2>
+<p align="center">The eight version of ntn is out you can download it at <a href="https://github.com/Thecode764/ntn/releases/tag/version-8">
+<h2 align="center">Version 9 is out</h2>
+<p align="center">The nine version of ntn is out you can download it at <a href="https://github.com/Thecode764/ntn/releases/tag/version-9">

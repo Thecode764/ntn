@@ -36,7 +36,29 @@
     <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
     <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml/badge.svg">
 </p>
-<h2 align="center">Log file</h2>
-<p align="center">If you run any command in ntn the command log saves on logs/log.txt</p>
+<h2 align="center">Search</h2>
+<p align="center">A command for search packages</p>
 
-<h5 align="center"><a href="./about-command.md">Next tutorial</a></h5>
+```
+ntn --search [package name]
+```
+OR
+```
+ntn --s [package name]
+```
+OR
+```
+ntn --se [package name]
+```
+OR
+```
+ntn --sea [package name]
+```
+OR
+```
+ntn --sear [package name]
+```
+OR
+```
+ntn --searc [package name]
+```
