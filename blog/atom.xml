@@ -8,6 +8,37 @@
     <updated>2024-05-26T00:00:00+00:00</updated>
     <id>https://Thecode764.github.io/ntn/blog/atom.xml</id>
     <entry xml:lang="en">
+        <title>How to install ntn?</title>
+        <published>2024-05-26T00:00:00+00:00</published>
+        <updated>2024-05-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Thecode764
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Thecode764.github.io/ntn/blog/hti/"/>
+        <id>https://Thecode764.github.io/ntn/blog/hti/</id>
+        
+        <content type="html" xml:base="https://Thecode764.github.io/ntn/blog/hti/">&lt;p&gt;Ok so&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;linux-macos&quot;&gt;Linux&#x2F;MacOS&lt;&#x2F;h2&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;Thecode764&#x2F;ntn
+&lt;&#x2F;span&gt;&lt;span&gt;cd ntn
+&lt;&#x2F;span&gt;&lt;span&gt;chmod +x ntn.sh
+&lt;&#x2F;span&gt;&lt;span&gt;sudo cp ntn.sh &#x2F;usr&#x2F;bin&#x2F;ntn.sh
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;windows&quot;&gt;Windows&lt;&#x2F;h2&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;git clone https:&#x2F;github.com&#x2F;Thecode764&#x2F;ntn
+&lt;&#x2F;span&gt;&lt;span&gt;cd ntn
+&lt;&#x2F;span&gt;&lt;span&gt;.&#x2F;ntn.bat
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Welcome to ntn</title>
         <published>2024-05-26T00:00:00+00:00</published>
         <updated>2024-05-26T00:00:00+00:00</updated>
@@ -31,6 +62,31 @@ With&lt;&#x2F;p&gt;
 &lt;li&gt;⚡ NR File (NTN Requirements)&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;strong&gt;Wait for next post i write about how to install ntn&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Version 9 is out 🥳</title>
+        <published>2024-05-25T00:00:00+00:00</published>
+        <updated>2024-05-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Thecode764
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Thecode764.github.io/ntn/blog/v-9/"/>
+        <id>https://Thecode764.github.io/ntn/blog/v-9/</id>
+        
+        <content type="html" xml:base="https://Thecode764.github.io/ntn/blog/v-9/">&lt;p&gt;👋 Hi&lt;&#x2F;p&gt;
+&lt;p&gt;Version 9 is out 🥳 &lt;&#x2F;p&gt;
+&lt;p&gt;The nine version of ntn is out you can download it here &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Thecode764&#x2F;ntn&#x2F;releases&#x2F;version-9&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;This version is stable&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This version is a stable version this version released for Linux&#x2F;MacOS&#x2F;Windows you can download now!&lt;&#x2F;p&gt;
+&lt;p&gt;Docs: https:&#x2F;&#x2F;thecode764.github.io&#x2F;ntn&#x2F;ntn&#x2F;site&lt;&#x2F;p&gt;
 </content>
         
     </entry>
