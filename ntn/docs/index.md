@@ -50,3 +50,6 @@ And others
 - App veyor
 - Shields image
 - Wine (Virtual windows i used for test in windows)
+- Zola (Blog)
+- Kita (Blog theme)
+- Sonar cloud
