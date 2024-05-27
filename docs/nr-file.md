@@ -25,7 +25,7 @@
     <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">
         <img src="https://img.shields.io/badge/Icons-black?logo=icon">
     </a>
-    <img src="https://img.shields.io/badge/Version-9-black?logo=windows">
+    <img src="https://img.shields.io/badge/Version-Ended-black?logo=windows">
     <img src="https://img.shields.io/badge/Tested-yes-black?logo=windows">
     <img src="https://api.statusbadges.me/badge/status/1125429179685548112" alt="status">
     <img src="https://api.statusbadges.me/badge/playing/1125429179685548112" alt="playing">
@@ -33,8 +33,9 @@
     <a href="https://thecode764.github.io/ntn">
         <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white">
     </a>
-    <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
     <img src="https://github.com/Thecode764/ntn/actions/workflows/static.yml/badge.svg">
+    <img src="https://ci.appveyor.com/api/projects/status/k7h2ja80wj1pw9vj?svg=true">
+    <img src="https://wakatime.com/badge/user/186ebd96-46f0-4a90-94bb-eec738927bef/project/a7678001-28c1-419f-b3d0-a278aa9bfccf.svg">
 </p>
 <h2 align="center">NR file</h2>
 <h3 align="center">NR file Syntax</h3>
