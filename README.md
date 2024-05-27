@@ -312,10 +312,8 @@ SOFTWARE.
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Develop of windows version ended! :&lpar;](https://Thecode764.github.io/ntn/blog/windows-develop-ended/)
 - [How to install ntn?](https://Thecode764.github.io/ntn/blog/hti/)
 - [Join developer team](https://Thecode764.github.io/ntn/blog/join-dev-team/)
 - [NTN Websites](https://Thecode764.github.io/ntn/blog/ntn-websites/)
-- [What is easy command](https://Thecode764.github.io/ntn/blog/wec/)
-- [Welcome to ntn](https://Thecode764.github.io/ntn/blog/welcome/)
-- [Version 9 is out 🥳](https://Thecode764.github.io/ntn/blog/v-9/)
 <!-- BLOG-POST-LIST:END -->
