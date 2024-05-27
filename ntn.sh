@@ -107,5 +107,5 @@ elif [[ "$1" == "--searc" ]]; then
     echo -e "ntn --searc\nNo error now!\n" >>‌ logs/log.txt 
 
 elif [[ "$1" == "--v" ]]; then
-    echo "V 9"
+    echo "V 10"
 fi
