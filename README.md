@@ -312,8 +312,8 @@ SOFTWARE.
 <h2 align="center">Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [NTN Forum is out 🥳](https://Thecode764.github.io/ntn/blog/forum-is-out/)
 - [Develop of windows version ended! :&lpar;](https://Thecode764.github.io/ntn/blog/windows-develop-ended/)
 - [How to install ntn?](https://Thecode764.github.io/ntn/blog/hti/)
 - [Join developer team](https://Thecode764.github.io/ntn/blog/join-dev-team/)
-- [NTN Websites](https://Thecode764.github.io/ntn/blog/ntn-websites/)
 <!-- BLOG-POST-LIST:END -->
