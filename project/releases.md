@@ -56,3 +56,5 @@
 <p align="center">The eight version of ntn is out you can download it at <a href="https://github.com/Thecode764/ntn/releases/tag/version-8">
 <h2 align="center">Version 9 is out</h2>
 <p align="center">The nine version of ntn is out you can download it at <a href="https://github.com/Thecode764/ntn/releases/tag/version-9">
+<h2 align="center">Version 10 is out</h2>
+<p align="center">The 10 version of ntn is out you can download it at <a href="https://github.com/Thecode764/ntn/releases/tag/version-10">
